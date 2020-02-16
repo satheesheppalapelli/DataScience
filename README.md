@@ -1,2 +1,2 @@
-# Data_Science
-data science practise materials
+# DataScience
+data science practise materials from scrath
